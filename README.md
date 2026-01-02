@@ -17,13 +17,6 @@ An offline, point-to-point communication system designed to enable text-based me
 * **Protocol:** Implements CR/LF termination for robust data synchronization.
 * **GUI:** User-friendly interface with a modern Dark Theme.
 
-## 📸 Screenshots
-
-| Device Scanning | Active Chat |
-|:---:|:---:|
-| <img src="screenshots/2.png" width="400"> | <img src="screenshots/4.png" width="400"> |
-
-*Figure 1: Scanning for devices (Left) and Real-time messaging (Right)*
 
 ## 🛠️ Requirements
 
@@ -66,9 +59,7 @@ The application uses a custom Class-based structure inheriting from `matlab.apps
 ## 👥 Authors
 
 * **Uygar Ali Göçmen**
-* **Hasan Kılınç**
-* **Fevzihan Alkan**
-* **Mert Turkaslan**
+
 
 ## 📄 License
 
